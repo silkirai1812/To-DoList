@@ -185,7 +185,7 @@ li {
 
 @media (max-width: 400px) {
   .container, #task-list, .navbar{
-    width: 90%;
+    width: 80%;
   }
   .nav-container {
     padding: 10px;
